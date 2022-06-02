@@ -8,3 +8,4 @@ router.post("/", (req,res)=>{
 })
 
 //get all pins
+       
